@@ -1,7 +1,6 @@
 # NWCalendarView
 
-NWCalendar View is an IOS control that displays a calendar. It is perfect for appointment or availibilty selection. It allows for selection of a single date or a range. It also allows to disable dates that are unavailable.
-
+NWCalendar View is an IOS control that displays a calendar.
 <p align="center">
   <img src="http://i.imgur.com/XsIX6F6.png" height=400 width=400/>
 </p>
@@ -80,5 +79,4 @@ func didSelectDate(fromDate: NSDateComponents, toDate: NSDateComponents) {
 3. Make all aspects customizable (font, colors, etc..)
 4. Turn into cocoapod
 
-## License
-MIT
+
